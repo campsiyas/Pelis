@@ -9,6 +9,8 @@
 	<game>
 		<path>./avatar-y-el-camino-del-agua.data</path>
 		<name>avatar-y-el-camino-del-agua</name>
+		<desc>Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.</desc>
+		<image>./Pelis/Torrent/image/avatar-y-el-camino-del-agua.jpg</image>
 		<playcount>1</playcount>
 		<lastplayed>20230920T001930</lastplayed>
 	</game>
