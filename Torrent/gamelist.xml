@@ -19,6 +19,8 @@
 	<game>
 		<path>./flash.data</path>
 		<name>flash 2022</name>
+		<desc>Flash, el héroe más rápido, viaja a una línea temporal en que la Tierra está en crisis y sus héroes perdidos o dispersados.</desc>
+		<image>flash.jpg</image>
 		<playcount>1</playcount>
 		<lastplayed>20230920T002046</lastplayed>
 	</game>
@@ -103,6 +105,12 @@
 		<desc>Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.
 </desc>
 		<image>./img/truman.jpg</image>
+	</game>
+	<game>
+		<path>./fast-x.data</path>
+		<name>Rapido y Furioso x</name>
+		<desc>Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: Un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.</desc>
+		<image>./fast-x.jpg</image>
 	</game>
 	<game>
 		<path></path>
