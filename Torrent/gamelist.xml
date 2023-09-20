@@ -3,20 +3,22 @@
 	<game>
 		<path>./Gato con botas.data</path>
 		<name>Gato con botas</name>
+		<image>./img/gato-con-botas2011.jpg</image>
+		<desc>Mucho antes de que conociera a Shrek, el conocido espadachín, amante y fuera de la ley Gato con Botas se convierte en un héroe al emprender una aventura junto a la dura y espabilada Kitty Zarpassuaves y el astuto Humpty Dumpty para salvar a su pueblo. Complicándoles las cosas por el camino están los infames forajidos Jack y Jill, que harán cualquier cosa para que Gato y su banda no lo consigan.</desc>
 		<playcount>1</playcount>
 		<lastplayed>20230910T024342</lastplayed>
 	</game>
 	<game>
 		<path>./avatar-y-el-camino-del-agua.data</path>
-		<name>avatar-y-el-camino-del-agua</name>
+		<name>Avatar y el camino del agua</name>
 		<desc>Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.</desc>
 		<image>./img/avatar-y-el-camino-del-agua.jpg</image>
 		<playcount>1</playcount>
 		<lastplayed>20230920T001930</lastplayed>
 	</game>
 	<game>
-		<path>./barbie(2023).data.data</path>
-		<name>barbie.data</name>
+		<path>./flash.data</path>
+		<name>flash 2022</name>
 		<playcount>1</playcount>
 		<lastplayed>20230920T002046</lastplayed>
 	</game>
